@@ -1,0 +1,23 @@
+
+
+.meal-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 -8px; /* Margen negativo para contrarrestar el padding en .meal-item */
+  }
+  
+  .meal-item {
+    flex: 0 1 calc(25% - 16px); /* 4 elementos por fila (25%) con espacio entre ellos */
+    margin: 0 8px; /* Espacio entre las imágenes */
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  .meal-item img {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
