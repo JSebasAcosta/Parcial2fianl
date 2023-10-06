@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Juan Sebastian Acosta Otero
 
-Codigo :
+Codigo : 0000214188
 
 **Descripción del Problema:**
 
